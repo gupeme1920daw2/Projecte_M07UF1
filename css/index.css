@@ -1,0 +1,71 @@
+body{
+    background: rgba(255, 255, 255, 0.89);
+    cursor: pointer;
+  }
+h1{
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+}
+h2{
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.parrafo{
+    text-align: justify;
+    font-size: 20px;
+    color: black;
+    margin-left: 450px;
+    margin-right: 100px;
+    margin-top: -235px;
+    margin-bottom: 20px;
+    padding: 50px;
+    border-radius: 20%;
+    background: rgba(128, 128, 128, 0.425);
+}
+.imagen{
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.contenedor1{
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 5px solid rgb(255, 0, 0);
+}
+.contenedor2{
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 5px solid rgb(255, 145, 0);
+}
+#minfooter{
+    border: 2px solid black;
+    background: rgba(126, 126, 126, 0.37);
+    margin: 5px;
+}
+.button {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 115px;
+    margin-top: -100px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+}
+
+.button3:hover {
+  background-color: #f44336;
+  color: white;
+}
+  

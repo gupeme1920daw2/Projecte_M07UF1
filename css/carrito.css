@@ -1,0 +1,46 @@
+body{
+    background: rgba(255, 255, 255, 0.89);
+    cursor: pointer;
+  }
+
+h1{
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h2{
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: black;
+    margin-left: 500px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.tabla{
+    border: 2px solid red;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    padding-left:50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width:900px;
+    height:300px;
+    border-collapse: collapse;
+}
+
+.tabla td {
+    border: 2px solid red;
+}
+#tabla td:hover	{
+    background: rgba(255, 0, 0, 0.253);
+}
